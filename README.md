@@ -6,7 +6,7 @@
 ## Clone the project
 Go the project directory, and run:
 ```cmd
-git clone https://github.com/nacerkraa/todo_list.git
+https://github.com/pkay5/todo.git
 ```
 
 ## Install the packages
